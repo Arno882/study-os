@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "RF Graduate Study OS",
-  description: "研究生自律研讀系統",
+  title: "Study OS",
+  description: "自律研讀系統",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
